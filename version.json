@@ -1,4 +1,10 @@
 {
-  "version": "0.0.1",
-  "url": "https://github.com/MidiHacker/oiphjas/raw/refs/heads/main/App_V0.0.1.bin"
+ "version": "0.0.2",
+ "url": "https://raw.githubusercontent.com/MidiHacker/oiphjas/refs/heads/main/Firmware_0.0.2.ota",
+ "version_u32": 2,
+ "rollback_floor": "0.0.0",
+ "format": 3,
+ "target_id": "0x31315456",
+ "size": 102668,
+ "sha256": "3c07bf3a38865788ed8458bba0faecc44e63ddf0a4994bbec433c1fb3a447825"
 }
