@@ -1,0 +1,11 @@
+{
+ "version": "0.5.1",
+ "url": "https://raw.githubusercontent.com/MidiHacker/oiphjas/refs/heads/main/Firmware_0.5.1.ota",
+ "version_u32": 1281,
+ "rollback_floor": "0.0.8",
+ "format": 3,
+ "target_id": "0x31315456",
+ "size": 104644,
+ "sha256": "518029eb1d910ec79c8db73b05d5e3e859ef8eea2194ce7ad2d2598d5c6ae6f8",
+ "aes_key_fp": "0bea85990f0f3938"
+}
