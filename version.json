@@ -1,10 +1,10 @@
 {
- "version": "0.3.2",
- "url": "https://raw.githubusercontent.com/MidiHacker/oiphjas/refs/heads/main/Firmware_0.3.2.ota",
- "version_u32": 770,
+ "version": "0.4.2",
+ "url": "https://raw.githubusercontent.com/MidiHacker/oiphjas/refs/heads/main/Firmware_0.4.2.ota",
+ "version_u32": 1026,
  "rollback_floor": "0.0.8",
  "format": 3,
  "target_id": "0x31315456",
- "size": 104764,
- "sha256": "e9435bf991cfab416d5d36feccb77d6c7dc3e0b29d8b3ecbd405ca599e9ee5ef"
+ "size": 104644,
+ "sha256": "4ee6fcc72314dbd034abda65a827edaee3a56b0f9ed9baf81ef30e71b0904229"
 }
