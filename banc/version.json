@@ -1,11 +1,11 @@
 {
- "version": "0.7.1",
- "url": "https://raw.githubusercontent.com/MidiHacker/oiphjas/refs/heads/main/banc/Firmware_0.7.1.ota",
- "version_u32": 1793,
+ "version": "0.7.2",
+ "url": "https://raw.githubusercontent.com/MidiHacker/oiphjas/refs/heads/main/banc/Firmware_0.7.2.ota",
+ "version_u32": 1794,
  "rollback_floor": "0.0.0",
  "format": 3,
  "target_id": "0x31315456",
- "size": 107396,
- "sha256": "df7d7a8aa9825595aab7e79348e48a50e3fcf8866d707a39ce664ff2d4fbbe06",
+ "size": 107644,
+ "sha256": "76115d29c35fda683fdc5e824ff58ea7dace8b54dd757f99a6be7a54642b9a80",
  "aes_key_fp": "0bea85990f0f3938"
 }
