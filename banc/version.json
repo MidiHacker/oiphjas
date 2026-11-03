@@ -1,0 +1,11 @@
+{
+ "version": "0.8.32",
+ "url": "https://raw.githubusercontent.com/MidiHacker/oiphjas/refs/heads/main/banc/Firmware_0.8.32.ota",
+ "version_u32": 2080,
+ "rollback_floor": "0.0.0",
+ "format": 3,
+ "target_id": "0x31315456",
+ "size": 113324,
+ "sha256": "bc9a9ed78aff030978a8278849f95aa3556c9b9883014a11bd23f10bbc002f51",
+ "aes_key_fp": "0bea85990f0f3938"
+}
